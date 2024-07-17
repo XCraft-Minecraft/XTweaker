@@ -1,0 +1,4 @@
+name: XTweaker
+version: '1.0.0'
+main: cc.xcraft.xtweaker.XTweaker
+api-version: '1.21'
