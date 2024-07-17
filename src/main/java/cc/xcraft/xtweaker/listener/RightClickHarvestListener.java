@@ -1,16 +1,15 @@
 package cc.xcraft.xtweaker.listener;
 
-import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.block.data.Ageable;
-import org.bukkit.block.data.BlockData;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.Action;
 import org.bukkit.event.player.PlayerInteractEvent;
 
 public class RightClickHarvestListener implements Listener {
+
     @EventHandler
     public void onPlayerInteract(PlayerInteractEvent event) {
         // 检查是否是右击方块事件

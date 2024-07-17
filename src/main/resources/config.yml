@@ -1,2 +1,1 @@
-# config.yml
-leaf-decay-delay: 5  # 延迟时间，以游戏刻为单位，1L = 1/20秒
+leaf-decay-delay: 5  # 叶子腐烂延迟时间，以游戏刻为单位，1L = 1/20秒

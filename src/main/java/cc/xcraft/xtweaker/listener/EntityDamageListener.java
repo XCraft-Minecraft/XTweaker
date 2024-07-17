@@ -1,10 +1,10 @@
 package cc.xcraft.xtweaker.listener;
 
 import org.bukkit.entity.LivingEntity;
+import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDamageByEntityEvent;
-import org.bukkit.entity.Player;
 
 public class EntityDamageListener implements Listener {
 

@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="XTweaker">
-    <output-path>$PROJECT_DIR$/../../1.21 TESTSERVER/plugins</output-path>
-    <root id="archive" name="XTweaker.jar">
-      <element id="module-output" name="XTweaker" />
-    </root>
-  </artifact>
-</component>
