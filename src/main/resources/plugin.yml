@@ -2,3 +2,4 @@ name: XTweaker
 version: '${project.version}'
 main: cc.xcraft.xtweaker.XTweaker
 api-version: '1.21'
+author: [XCraft, X1A]
